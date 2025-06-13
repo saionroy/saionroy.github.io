@@ -5,7 +5,7 @@ title: Talks
 
 [Home](/) | [Publications](/publications) | [Talks](/talks) | [CV](/cv)
 
-# 🎤 Talks
+# Talks
 
 - “Energy-Accuracy-Security Trade-offs in Resistive In-Memory Computing Architectures”, **New England Hardware Security Day**, MIT, April 2025  
 - “Energy-Accuracy-Security Trade-offs in Resistive In-memory Computing Architectures”, **SRC JUMP 2.0 COCOSYS Annual Review**, Georgia Tech, March 2025  
