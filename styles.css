@@ -1,0 +1,19 @@
+.sidebar {
+  float: left;
+  width: 240px;
+  margin-right: 40px;
+  text-align: center;
+}
+.profile-pic {
+  width: 160px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.main-content {
+  margin-left: 300px;
+}
+.links a {
+  display: inline-block;
+  margin: 5px;
+  text-decoration: none;
+}
