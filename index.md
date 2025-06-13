@@ -9,8 +9,8 @@ title: Saion Roy
   <img src="/assets/Saion-Roy-Headshot-JPEG.jpg" alt="Saion Roy" class="profile-pic"/>
   <h2>Saion Roy</h2>
   <p>Postdoctoral Researcher<br/>Northeastern University</p>
-  <p><strong>📍</strong> Boston, MA</p>
-  <p><strong>✉️</strong> sai.roy@northeastern.edu</p>
+  <p> Boston, MA</p>
+  <p> sai.roy@northeastern.edu</p>
   <div class="links">
     <a href="https://www.linkedin.com/in/saion-roy-6a050587/">LinkedIn</a> |
     <a href="https://scholar.google.com/citations?user=80pyo_4AAAAJ&hl=en">Scholar</a>
