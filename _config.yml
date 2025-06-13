@@ -1,3 +1,13 @@
 title: Saion Roy
-description: Personal website and research profile
+description: "Postdoctoral Researcher, Northeastern University"
 theme: jekyll-theme-minimal
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Publications"
+    url: "/publications"
+  - title: "Talks"
+    url: "/talks"
+  - title: "CV"
+    url: "/cv"
