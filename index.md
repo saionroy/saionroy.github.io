@@ -6,7 +6,7 @@ title: Saion Roy
 <link rel="stylesheet" href="/styles.css">
 
 <div class="sidebar">
-  <img src="/assets/Saion-Roy-Headshot-JPEG" alt="Saion Roy" class="profile-pic"/>
+  <img src="/assets/Saion-Roy-Headshot-JPEG.jpg" alt="Saion Roy" class="profile-pic"/>
   <h2>Saion Roy</h2>
   <p>Postdoctoral Researcher<br/>Northeastern University</p>
   <p><strong>📍</strong> Boston, MA</p>
