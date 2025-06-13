@@ -3,21 +3,30 @@ layout: default
 title: Saion Roy
 ---
 
-[Home](/) | [Publications](/publications) | [Talks](/talks) | [CV](/cv)
+<link rel="stylesheet" href="/styles.css">
 
-# Saion Roy
+<div class="sidebar">
+  <img src="/assets/Saion-Roy-Headshot-JPEG" alt="Saion Roy" class="profile-pic"/>
+  <h2>Saion Roy</h2>
+  <p>Postdoctoral Researcher<br/>Northeastern University</p>
+  <p><strong>📍</strong> Boston, MA</p>
+  <p><strong>✉️</strong> sai.roy@northeastern.edu</p>
+  <div class="links">
+    <a href="https://www.linkedin.com/in/saion-roy-6a050587/">LinkedIn</a> |
+    <a href="https://scholar.google.com/citations?user=80pyo_4AAAAJ&hl=en">Scholar</a>
+  </div>
+</div>
 
-Postdoctoral Researcher, Northeastern University  
-Email: [sai.roy@northeastern.edu](mailto:sai.roy@northeastern.edu)  
-Google Scholar: [Link](https://scholar.google.com/citations?user=80pyo_4AAAAJ&hl=en)
-LinkedIn: [Profile](https://www.linkedin.com/in/saion-roy-6a050587/)
+<div class="main-content">
+  ## About Me
 
-## Research Interests
-- Security vulnerabilities of DNNs on hardware
-- Hardware security for ASICs and IMC accelerators
-- Energy-efficient IC design for ML
+  I am a postdoctoral researcher at Northeastern, working on machine learning security.  
 
-## Education
-- **Ph.D.** in ECE, UIUC (2018–2024), GPA: 3.88/4.0  
-  *Advisor: Prof. Naresh Shanbhag*  
-- **B.Tech + M.Tech** in E&ECE, IIT Kharagpur (2013–2018), GPA: 9.26/10
+  ## News
+
+  - [April 2025] Gave invited talk at NEHWS 2025 held at MIT
+  - [March 2025] Gave talk at SRC JUMP 2.0 COCOSYS Annual Review at Georgia Tech
+  - [Dec 2025] New paper at IEDM 2024!
+  - [Oct 2025] New paper at ICCAD 2024!
+  - [July 2024] Graduated from UIUC with PhD!
+</div>
