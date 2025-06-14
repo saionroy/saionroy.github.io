@@ -1,8 +1,8 @@
 ---
 title: "Home"
-# Note: We remove the permalink because index.md is special
 layout: single
 author_profile: false
+page_navigation: false
 ---
 
 ![Profile]({{ "/assets/saion.jpg" | relative_url }}){: .align-left style="max-width: 150px; border-radius: 50%;" }
@@ -15,7 +15,7 @@ Postdoctoral Researcher, Northeastern University
 
 ## About Me
 
-I am a postdoctoral researcher at Northeastern University working on the security of machine learning accelerators.
+I am a postdoctoral researcher at Northeastern University working on security of machine learning models on specialized hardware.
 
 ---
 
