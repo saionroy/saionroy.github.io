@@ -18,17 +18,16 @@ title: Saion Roy
   </div>
 </div>
 
-<!-- Now back to markdown -->
-<div class="main-content"></div>
+<div class="main-content">
+  <h2>About Me</h2>
+  <p>I am a postdoctoral researcher at Northeastern, working on machine learning security.</p>
 
-## About Me
-
-I am a postdoctoral researcher at Northeastern, working on machine learning security.
-
-## News
-
-- **April 2025**: Invited talk at NEHWS 2025, MIT  
-- **March 2025**: SRC JUMP 2.0 Annual Review, Georgia Tech  
-- **Dec 2025**: New paper at IEDM 2024  
-- **Oct 2025**: New paper at ICCAD 2024  
-- **July 2024**: Graduated from UIUC with PhD!
+  <h2>News</h2>
+  <ul>
+    <li><strong>April 2025:</strong> Gave invited talk at NEHWS 2025 held at MIT</li>
+    <li><strong>March 2025:</strong> Gave talk at SRC JUMP 2.0 at Georgia Tech</li>
+    <li><strong>Dec 2025:</strong> New paper at IEDM 2024!</li>
+    <li><strong>Oct 2025:</strong> New paper at ICCAD 2024!</li>
+    <li><strong>July 2024:</strong> Graduated from UIUC with PhD!</li>
+  </ul>
+</div>
