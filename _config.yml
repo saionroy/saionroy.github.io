@@ -1,11 +1,27 @@
-title: "Saion Roy"
-email: sai.roy@northeastern.edu
-description: "Postdoctoral Researcher at Northeastern University"
-baseurl: ""
-url: "https://saionroy.github.io"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. You need to restart the server every time you make changes.
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.author }}, {{ site.github.repository_nwo }}, etc.
 
+title: "Saion Roy"
+email: "sai.roy@northeastern.edu"
+description: "Postdoctoral Researcher at Northeastern University"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://saionroy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Remote theme
+# See: https://github.com/mmistakes/minimal-mistakes
 remote_theme: "mmistakes/minimal-mistakes"
 
+# Plugins (correctly formatted)
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -13,11 +29,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+# Collections
 collections:
   pages:
     output: true
     permalink: /:name/
 
+# Defaults
 defaults:
   - scope:
       path: ""
