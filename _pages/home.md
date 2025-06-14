@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-![Profile](../assets/saion.jpg){: .align-left style="max-width: 150px; border-radius: 50%;" }
+![Profile]({{ "/assets/saion.jpg" | relative_url }}){: .align-left style="max-width: 150px; border-radius: 50%;" }
 
 ### Saion Roy  
 Postdoctoral Researcher, Northeastern University  
