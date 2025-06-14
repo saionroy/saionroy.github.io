@@ -1,8 +1,6 @@
+theme: jekyll-theme-minimal
 title: "Saion Roy"
 description: "Postdoctoral Researcher at Northeastern University"
-theme: jekyll-theme-minimal
-
-markdown: kramdown
 
 navigation:
   - title: "Home"
