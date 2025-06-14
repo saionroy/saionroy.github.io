@@ -1,12 +1,13 @@
 title: "Saion Roy"
 email: sai.roy@northeastern.edu
-description: >-
-  Postdoctoral Researcher at Northeastern University
-baseurl: "" 
+description: "Postdoctoral Researcher at Northeastern University"
+baseurl: ""
 url: "https://saionroy.github.io"
-theme: minimal-mistakes-jekyll
+
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
